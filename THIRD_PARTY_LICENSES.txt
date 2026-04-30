@@ -1,0 +1,44 @@
+Commander Assistant – Ghost Edition
+Third-Party Licenses
+
+This software includes components from third-party libraries.
+Below are the libraries used and their respective licenses.
+
+------------------------------------------------------------
+
+1. pydirectinput
+License: MIT License
+Source: https://github.com/learncodebygaming/pydirectinput
+
+------------------------------------------------------------
+
+2. openai (OpenAI API Client)
+License: Apache License 2.0
+Source: https://github.com/openai/openai-python
+
+------------------------------------------------------------
+
+3. tkinter
+License: Python Software Foundation License
+Source: https://docs.python.org/3/library/tkinter.html
+
+------------------------------------------------------------
+
+4. json (Standard Library)
+License: Python Software Foundation License
+Source: https://docs.python.org/3/library/json.html
+
+------------------------------------------------------------
+
+5. os / sys / threading / time (Standard Libraries)
+License: Python Software Foundation License
+Source: https://docs.python.org/
+
+------------------------------------------------------------
+
+Notes:
+- This software uses the OpenAI API for speech recognition, AI responses, and text-to-speech.
+- All third-party libraries are used in accordance with their respective licenses.
+- This project is an independent software and is not affiliated with or endorsed by any of the above libraries.
+
+------------------------------------------------------------
